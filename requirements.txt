@@ -1,0 +1,8 @@
+tensorflow>=2.11.0
+opencv-python
+numpy
+matplotlib
+kaggle
+tqdm
+notebook  # Optional, only if you run .ipynb locally
+
