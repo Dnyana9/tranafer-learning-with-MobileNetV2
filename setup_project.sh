@@ -69,4 +69,3 @@ echo "Running preprocessing script..."
 python scripts/preprocess_data.py "$RAW_DIR/DATASET/" "$PREPROCESSED_DIR"
 
 echo "Setup complete! Your data is ready to use."
-
