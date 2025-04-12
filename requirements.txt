@@ -1,5 +1,5 @@
 tensorflow>=2.11.0
-opencv-python=4.5.1.48
+opencv-python>=4.5.1.48
 numpy
 matplotlib
 kaggle
