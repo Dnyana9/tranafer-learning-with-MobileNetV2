@@ -22,8 +22,6 @@ This project demonstrates how to use **transfer learning** with **MobileNetV2** 
 
 ## 🚀 Getting Started
 
----
-
 ## ⚙️ Project Setup
 
 This project includes a `setup_project.sh` script that:
